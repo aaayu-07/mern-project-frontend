@@ -52,4 +52,4 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
 <img width="1280" alt="Screenshot 2024-07-25 at 8 13 29 PM" src="https://github.com/user-attachments/assets/90a551c4-da7e-41b3-8d48-e029fa81ebf9">
 <img width="1280" alt="Screenshot 2024-07-25 at 8 14 11 PM" src="https://github.com/user-attachments/assets/46080023-1ab9-4b7e-8412-93
 <img width="1280" alt="Screenshot 2024-07-25 at 8 21 56 PM" src="https://github.com/user-attachments/assets/d2b1fd9d-7d05-416d-b40e-4c8a686b2bfd">
-8eb8279306">
+
