@@ -51,5 +51,5 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
 <img width="1280" alt="Screenshot 2024-07-25 at 8 13 24 PM" src="https://github.com/user-attachments/assets/3139f374-c37b-4b46-9a21-0e7f7d08f57b">
 <img width="1280" alt="Screenshot 2024-07-25 at 8 13 29 PM" src="https://github.com/user-attachments/assets/90a551c4-da7e-41b3-8d48-e029fa81ebf9">
 <img width="1280" alt="Screenshot 2024-07-25 at 8 14 11 PM" src="https://github.com/user-attachments/assets/46080023-1ab9-4b7e-8412-93
-<img width="1280" alt="Screenshot 2024-07-25 at 8 21 56 PM" src="https://github.com/user-attachments/assets/d2b1fd9d-7d05-416d-b40e-4c8a686b2bfd">
-
+<img width="1280" alt="Screenshot 2024-07-25 at 8 21 50 PM" src="https://github.com/user-attachments/assets/03efab68-e456-4585-a121-70c987521663">
+<img width="1280" alt="Screenshot 2024-07-25 at 8 22 08 PM" src="https://github.com/user-attachments/assets/3230a750-a717-4870-9e10-7f925c44c683">
